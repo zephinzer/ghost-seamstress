@@ -1,0 +1,40 @@
+{
+    "name": "seamstress",
+    "description": "Seamstress for Ghost is a single page application theme that emphasies categorical information clarity and includes basic e-commerce functionality.",
+    "demo": "https://ghost.joeir.net/seamstress",
+    "version": "0.2.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "GPLv3",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Joseph Matthias Goh",
+        "email": "joseph@joeir.net",
+        "url": "https://joeir.net"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "see",
+        "sews",
+				"seamstress",
+				"artisan",
+				"artist",
+				"creative"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zephinzer/ghost-seamstress.git"
+    },
+    "bugs": "https://github.com/zephinzer/ghost-seamstress/issues",
+    "contributors": "https://github.com/zephinzer/ghost-seamstress/graphs/contributors"
+}
