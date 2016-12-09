@@ -1,5 +1,5 @@
 {
-    "name": "seamstress",
+    "name": "Seamstress",
     "description": "Seamstress for Ghost is a single page application theme that emphasies categorical information clarity and includes basic e-commerce functionality.",
     "demo": "https://ghost.joeir.net/seamstress",
     "version": "0.2.0",
@@ -14,7 +14,7 @@
     "author": {
         "name": "Joseph Matthias Goh",
         "email": "joseph@joeir.net",
-        "url": "https://joeir.net"
+        "url": "https://blog.joeir.net"
     },
     "gpm": {
         "type": "theme",
